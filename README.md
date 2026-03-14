@@ -1,9 +1,9 @@
 # KATA: Know Your Agent Through Adversarial Clinical Attack
-Boya Zhang, 13 Mar 2026 - for PhD Thesis
-
 <p align="center">
   <img src="logo.svg" width="400" alt="KATA logo"/>
 </p>
+
+Boya Zhang, 13 Mar 2026 - for PhD Thesis
 
 # Roadmap
 
