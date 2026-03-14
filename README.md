@@ -70,7 +70,7 @@ by substituting the corresponding phrase in the claim string.
 | **0** | **Inconclusive** | Evidence does not support the claim (n = 54, 13.7%) |
 | **2** | **NEI** | Not enough information to evaluate (n = 227, 57.6%) |
 
-![Source dataset statistics: label distribution (NEI 57.6%, Supported 28.7%, Inconclusive 13.7%) and NIT type distribution (93% superiority-type)](results/figures/corruption_analysis/figA_source_stats.png)
+![Source dataset statistics: label distribution (NEI 57.6%, Supported 28.7%, Inconclusive 13.7%) and NIT type distribution (93% superiority-type)](results/figures/figA_source_stats.png)
 
 ### 3.2 Claim-Type Flip: Constructing Minimal Contrast Pairs
 
